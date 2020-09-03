@@ -16,7 +16,7 @@ public class PrintWithDNames {
         );
 
         printWithoutLambda(objList);
-        
+
         printWithLambda(objList);
 
     }
